@@ -5,4 +5,5 @@ This repo contains a paper that discusses issus in Free Speech and False news al
 Citations can be found [here](https://github.com/Dimitris-STAT/Legal-Ethical-Issues/tree/main/citations)
 
 Collaborators:
+
 1.[Dion Voulgarakis](https://github.com/dionvou)
