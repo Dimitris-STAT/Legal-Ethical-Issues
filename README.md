@@ -1,4 +1,4 @@
-# Legal-Ethical-Issues
+# An overview of the Free Speech and False, Disinformation Detection landascape
 
 This repo contains a paper that discusses issus in Free Speech and False news along with Disinformation Detection with a strict focus on AI applications and implications.
 
