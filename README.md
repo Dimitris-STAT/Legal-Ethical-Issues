@@ -1,1 +1,5 @@
 # Legal-Ethical-Issues
+
+This repo contains a paper that discusses issus in Free Speech and False news along with Disinformation Detection with a strict focus on AI applications and implications.
+
+Citations can be found [here]

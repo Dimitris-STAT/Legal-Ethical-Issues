@@ -1,0 +1,213 @@
+(EPRS | European Parliamentary Research Service-2019, page 7 )
+(Chris MARSDEN et al., (2019))
+ When technical intermediaries need to moderate content and accounts, detailed and transparent policies, notice and appeal procedures, and regular reports are crucial. The authors believe this is valid for automated removals as well. There is scope for standardising (the basics of) notice and appeal procedures and reporting, and creating a self-regulatory multistakeholder body that, on the one hand, has competence to deal with industry-wide appeals and, on the other hand, continually works towards a better understanding and minimisation of the effects of content moderation on freedom of expression and media pluralism
+
+
+(CoEAI-DIGITAL-TECHNOLOGIES-ELECTIONS-2019, page 37)
+(Richard BARRET, Herdis KJERULF THO., 2019)
+
+CDL-AD(2019)016 - 37 -
+strategically) feeding or hiding specific information to its users, thus fostering a partial understanding of reality and hampering freedom of expression. 144. The internet-based services have enriched and diversified news sources, facilitating individuals’ access to information and their decisions on the most crucial matters in democracy, notably on the choice of their legislature. However, at the same time, information disorder – misinformation, disinformation and malinformation – may distort the communication ecosystem to the point where voters may be seriously encumbered in their decisions by misleading, manipulative and false information designed to influence their votes. This environment potentially undermines the exercise of the right to free elections and creates considerable risks to the functioning of a democratic system. 145. The small number of very powerful private actors that literally own the information highways have own commercial interests and rights that tend to collide with both civil and political rights and electoral principles. These internet providers have taken up the gatekeeping role which originally belonged to the traditional media, without however having adopted the ethical obligations of the media. Private technology companies are thus censoring content which they consider “harmful”, without them being accountable and their measures being transparent. It is true that social platforms have recently adopted a series of measures for preventing false news and limiting their spread particularly during electoral periods. There is a concept of corporate social responsibility, some sort of self-regulation for businesses with the primary goal of “doing no harm” and abiding by the rule of law and human rights principles, including the right to a remedy for their users, and being liable for their products (under commercial law, competition law, environmental law, etc.).145 However, this is done on a voluntary and unregulated basis, without a recognised rule of law based framework . 146. While states have a positive responsibility to prevent undue interference with civil and political rights by third parties, undue state intervention through excessive or undue regulation can result in undermining the very rights that it is meant to protect. Unjustified state surveillance of private communications and the different ways in which online platforms may be used so as to – intentionally or accidentally – affect the flow of information, directly curb the freedom of expression, hinder democratic dialogue, and infringe the principles of institutional neutrality and electoral equity. Enabling the authorities to interfere with the public discourse may be abused to silence dissidents and prevent discussion which challenges mainstream thought and restricts criticism of societal attitudes. In particular, the filtering, blocking and take-down of illegal content on the internet in order to combat notably hate crimes and to protect national security, as well as intellectual property and privacy or defamation rights must be in accordance with the law, which includes a precise and narrow definition of the offences in cause, and it must pursue one of the legitimate aims listed in Article 10 ECHR. The criteria of necessity in a democratic society and proportionality must always be respected. Effective judicial review by independent and impartial courts must be guaranteed. 147. As regards “fake news”, alternative means need to be employed, such as fact-checking, media literacy programmes aimed at sensitisation about the problem and recognition of false content, and investments in quality journalism. 148. At the same time, it must be stressed that any measures to address the information disorder must be designed with great care, so as not to undermine the principle of “net neutrality”. The internet should remain an open platform.
+
+
+
+
+(EPRS | European Parliamentary Research Service-2019, page 36)
+(Chris MARSDEN et al., 2019)
+Recognition of significant limitations of automation. At a minimum, rigorous audit and development of technology with broad user and civil society input
+Santa Clara Principles on Transparency and Accountability in Content Moderation (May 2018)
+•
+Explanation on how automated content detection is used
+EP Resolution on Media Pluralism / Freedom (May 2018)
+•
+Full transparency in use of algorithms, artificial intelligence and automated decision-making
+•
+Human rights-based approach with remedies and safeguards for any EU digital policy and strategy.
+
+(CoEAI-DIGITAL-TECHNOLOGIES-ELECTIONS-2019, page 25) 
+(Richard BARRET, Herdis KJERULF THO., 2019)
+C. Examples at the national level
+99. Several States have recently adopted – or are planning to adopt – legislation to regulate online content and to counter politically loaded disinformation in their elections. Germany acted first105 by obliging internet intermediaries (such as Facebook, Instagram, Twitter or YouTube) to promptly remove upon complaint any illegal content designated as such in the Criminal Code; obviously illegal content must be blocked or deleted within 24 hours. Offences range from hate speech and certain defamatory offences to content amounting to a threat to the constitutional order or national security, etc., which can have a direct impact on public debate and opinion especially during times of elections (the law is a general one, it is not specific to electoral campaigns). The Network Enforcement Act which took effect in the beginning of 2018 provides for fines up to € 50 million, which are applicable even if the offence was not committed in Germany.
+
+
+(Combating Fake News In Social Media_ U.S, page 33)
+Ryan
+https://scholarship.law.stjohns.edu/lawreview/vol91/iss4/5/?utm_source=scholarship.law.stjohns.edu%2Flawreview%2Fvol91%2Fiss4%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+
+
+n response to the Syrian refugee case and sensational 
+stories of Fake News during the 2016 U.S. presidential election, 
+German politicians hurried to pass the Network Enforcement 
+Act.223
+  Recently going into effect, it requires the immediate 
+removal of any “hate crime and other illegal content” by service 
+providers.224  A failure to delete flagged “obviously illegal content” 
+within twenty-four hours could result in fines in excess of fifty 
+million Euros.225  The Network Enforcement Act, which requires 
+social networks to determine the truth as well as the legality of 
+content, has naturally been met with heavy criticism and is 
+certain to face scrutiny in the courts.226 
+
+
+(EPRS | European Parliamentary Research Service-2019, page 12)
+AI to detect disinformation is however prone to Type I-II errors (false negatives/positives) due to the 'difficulty of parsing multiple, complex, and possibly conflicting meanings emerging from text'.8 If inadequate for natural language processing and audiovisual material including 'deep fakes' (fraudulent representation of individuals in video), AI does have more reported success in identifying 'bot' accounts: 'Such 'bots' foment political strife, skew online discourse, and manipulate the marketplace'.9 Note that disinformation has been a rapidly moving target in the period of research, with new reports and policy options presented by learned experts on a daily basis throughout the third quarter of 2018. The authors analysed these reports up to 26 October 2018,10 and the following chapters note the strengths and weaknesses of those most closely related to the study's focus on the impact of AI disinformation solutions on the exercise of freedom of expression, media pluralism and democracy.
+
+
+
+
+(A multi-dimensional approach to disinformation, page 16)
+(Mariya Gabriel, Madeleine de Cock Buning  2018)
+By contrast, bad practices tend to present risks to freedom of expression and other fundamental rights. They include censorship and online surveillance and other misguided re-sponses that can backfire substantially, and that can be used by purveyors of disinformation in an “us vs. them” narrative that can de-legitimize responses against disinformation and be counter-productive in the short and long run. Attention should also be paid to lack of transparency and to the privat-ization of censorship by delegation to specific bodies/entities or private companies.
+
+
+(CoEAI-DIGITAL-TECHNOLOGIES-ELECTIONS-2019, pages 11-12 )
+
+n certain cases untrue information has been strategically disseminated with the intent to 
+influence election results. It has been documented that cyber troops on the internet are often 
+government, military or political party teams committed to manipulating public opinion over 
+social media. Organised social media manipulation first emerged in 2010, and by 2017 there 
+are details on such organisations in 28 countries.48  
+41. 
+Not only the social media, but also search engine providers can manipulate information 
+with or without the intent to skew the election results in favour of a particular political option. 
+Recent research shows that manipulations of search results by those providers can produce a so-called search engine manipulation effect which can shift the voting preferences of undecided 
+voters by 20% or even more in some demographic groups.4 
+
+
+(FAKE-NEWS-AND-US-ELECTIONS, page 1)
+(Nir Grinberg et al.,  2019)
+
+social media have described its spread within
+ platforms (5, 6) and highlighted the disprop
+ortionate role played by automated accounts
+ (7), but they have beenunabletomakeinferences
+ about the experiences of ordinary citizens.
+ Outside of social media, fake news has been
+ examined amongU.S.voters via surveys and web
+ browsing data (8, 9). These methods suggest that
+ the average American adult saw and remembered
+ one or perhapsseveral fake news stories about the
+ 2016 election (8), that 27% of people visited a fake
+ newssource in the final weeks before the election,
+ and that visits to these sources constituted only
+ 2.6% of hard news site visits (9). They also show a
+ persistent trend of conservatives consuming more
+ fake news content, with 60% of fake news source
+ visits coming from the most conservative 10%
+ of Americans (9). However, because social media
+ platforms have been implicated as a key vector
+ for the transmission of fake news (8, 9), it is
+ critical to study what people saw and shared di
+rectly on social media.
+
+
+ (FakeNewsQuandt2019, page 5)
+(T horstenQuandt et al. )
+It is thus not surprising that the debate about fake news has been accompanied by
+ a rise in civic and governmental attempts to counter online mis- and disinformation.
+ Globally, multiple fact-checking organizations aim at authenticating official sources
+ as well as social media claims, and there are some national attempts at governmental
+ regulationsoftheissue.Lastbutnotleast,thedebateonfakenewsandtheroleofsocial
+ media networks in the electoral success of Donald Trump motivated Facebook at the
+ beginning of 2018 to change their policy regarding data access. How far these different
+ initiativesareabletopreventfakenewsflourishinganditspotentiallyadverseeffects
+ on media users or the democratic system, however, is an open question for future
+ research.
+
+(A multi-dimensional approach to disinformation, page 16)
+As regards fact-checking organisations, quality stand
+ards exist already, namely the International Fact-Checking 
+Network (IFCN) Code of Principles, which is signed by most 
+major fact-checkers in the world and entails an extensive 
+accreditation process. Still, fact-checkers must continuously 
+improve on their transparency - and organizations that are 
+not signatories of this code should strive to become verified.
+
+
+(EPRS | European Parliamentary Research Service-2019, page 27)
+In parallel to its longstanding policy activities on illegal content, the European Commission 
+established a High Level Expert Group (HLEG) on Fake News and Online Disinformation138 in 
+early 2018. The group of thirty-eight experts published their Report in March 2018.139 
+The report reviewed current practices on disinformation, ranging from transparency and 
+accountability-enhancing practices, trust-enhancing practices and algorithm changes, to media and 
+information literacy. In recommending responses and actions, the High Level Expert Group focused 
+primarily on 'improv[ing] the findability of, and access to, trustworthy content', as 'filtering out 
+disinformation is difficult to achieve without hitting legitimate content, and is therefore problematic 
+from a freedom of expression perspective'140: 
+1. 
+2. 
+3. 
+enhancing transparency of digital ecosystem, in particular in terms of funding sources, online 
+news sources and journalistic processes, and fact-checking practices; 
+promoting media and information literacy: reassessment and adjustment of educational 
+policies, reaching out to citizens of all ages; 
+developing tools for empowering users and journalists; and 
+safeguarding the diversity and sustainability of the European news media ecosystem.
+
+
+(A multi-dimensional approach to disinformation, page 14)
+nline platforms are making efforts to provide responses 
+to the distribution of disinformation. Key efforts include, first, 
+steps to identify and remove illegitimate accounts; second, 
+steps to integrate signals for credibility and trustworthiness 
+in ranking algorithms and include recommendations of alter
+native content to increase the “findability” of credible con
+tent; third, attempts to de-monetize for-profit fabrication of 
+false information and, fourth, collaboration with independent 
+source and fact-checking organisations. Different platforms 
+have taken different initiatives and not all platforms have 
+invested the same efforts and resources in containing dis
+information. Importantly, many of these initiatives are only 
+taken in a small number of countries, leaving millions of 
+users elsewhere more exposed to disinformation. Further
+more, because of the dearth of publicly available data, it is 
+often hard for independent third parties (fact-checkers, news 
+media, academics, and others) to evaluate the efficiency of 
+these responses. (9)
+
+
+(CoEAI-DIGITAL-TECHNOLOGIES-ELECTIONS, page 37)
+eeding or hiding specific information to its users, thus fostering a partial 
+understanding of reality and hampering freedom of expression. 
+144. The internet-based services have enriched and diversified news sources, facilitating 
+individuals’ access to information and their decisions on the most crucial matters in democracy, 
+notably on the choice of their legislature. However, at the same time, information disorder – 
+misinformation, disinformation and malinformation – may distort the communication ecosystem 
+to the point where voters may be seriously encumbered in their decisions by misleading, 
+manipulative and false information designed to influence their votes. This environment 
+potentially undermines the exercise of the right to free elections and creates considerable risks 
+to the functioning of a democratic system. 
+145. The small number of very powerful private actors that literally own the information 
+highways have own commercial interests and rights that tend to collide with both civil and 
+political rights and electoral principles. These internet providers have taken up the gatekeeping 
+role which originally belonged to the traditional media, without however having adopted the 
+ethical obligations of the media. Private technology companies are thus censoring content 
+which they consider “harmful”, without them being accountable and their measures being 
+transparent. It is true that social platforms have recently adopted a series of measures for 
+preventing false news and limiting their spread particularly during electoral periods. There is a 
+concept of corporate social responsibility, some sort of self-regulation for businesses with the 
+primary goal of “doing no harm” and abiding by the rule of law and human rights principles, 
+including the right to a remedy for their users, and being liable for their products (under 
+commercial law, competition law, environmental law, etc.).145 However, this is done on a 
+voluntary and unregulated basis, without a recognised rule of law based framework .  
+146. While states have a positive responsibility to prevent undue interference with civil and 
+political rights by third parties, undue state intervention through excessive or undue regulation 
+can result in undermining the very rights that it is meant to protect. Unjustified state surveillance 
+of private communications and the different ways in which online platforms may be used so as 
+to – intentionally or accidentally – affect the flow of information, directly curb the freedom of 
+expression, hinder democratic dialogue, and infringe the principles of institutional neutrality and 
+electoral equity. Enabling the authorities to interfere with the public discourse may be abused to 
+silence dissidents and prevent discussion which challenges mainstream thought and restricts 
+criticism of societal attitudes. In particular, the filtering, blocking and take-down of illegal content 
+on the internet in order to combat notably hate crimes and to protect national security, as well 
+as intellectual property and privacy or defamation rights must be in accordance with the law, 
+which includes a precise and narrow definition of the offences in cause, and it must pursue one 
+of the legitimate aims listed in Article 10 ECHR. The criteria of necessity in a democratic society 
+and proportionality must always be respected. Effective judicial review by independent and 
+impartial courts must be guaranteed. 
+147. As regards “fake news”, alternative means need to be employed, such as fact-checking,  
+media literacy programmes aimed at sensitisation about the problem and recognition of false 
+content, and investments in quality journalism. 
+148. At the same time, it must be stressed that any measures to address the information 
+disorder must be designed with great care, so as not to undermine the principle of “net 
+neutrality”. The internet should remain an open platform.  
